@@ -15,7 +15,7 @@ public class AplicacionPrueba {
      * @param args the command line arguments
      */
     public static void main(String[] args) {
-        / /  14545 TODO code application logic here 
+        //  14545 TODO code application logic here 
         
         // modificando el codigo fuente de mi aplicacion
         System.out.println("Hola Mundo");
